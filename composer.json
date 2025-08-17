@@ -11,7 +11,10 @@
   "autoload": {
     "psr-4": {
       "Adithwidhiantara\\LaravelResponseFormatter\\": "src/"
-    }
+    },
+    "exclude-from-classmap": [
+      "tests/"
+    ]
   },
   "authors": [
     {
