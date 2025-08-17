@@ -19,7 +19,8 @@
       "email": "aditya.saktyawan@javan.co.id"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require-dev": {
     "phpunit/phpunit": "^10.5",
     "orchestra/testbench": "^8.0"
